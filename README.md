@@ -6,13 +6,13 @@ This program generates and print a sequence of integers of length n with a user-
 - Make
 
 ## Installation
-'''
+```cpp
 sudo apt-get install g++
 sudo apt-get install make
-'''
+```
 ## Usage
-'''
+```cpp
 make
 make run
-'''
+```
 
